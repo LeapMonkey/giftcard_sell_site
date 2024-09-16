@@ -87,6 +87,7 @@ url = "<?php echo U('Home/Public/getCode');?>";
 
         username = $('#phone').val();
         $("#next").attr("disabled", true);
+        alert(url);
         $.ajax({
             type:'post',
             url:url,

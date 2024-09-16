@@ -194,3 +194,152 @@ fsdfsdfsdafsdfdsf
     [typeid] => 110
     [is_force] => 0
 )
+Array
+(
+    [submission] => 1
+    [imgs] => 
+    [cardkey] => 1234567890123456/1234
+    [priceid] => zdy
+    [custom] => 
+    [express] => 0
+    [typeid] => 111
+    [is_force] => 0
+)
+Array
+(
+    [submission] => 1
+    [imgs] => 
+    [cardkey] => 1234567890123456/123456
+    [priceid] => zdy
+    [custom] => 
+    [express] => 0
+    [typeid] => 110
+    [is_force] => 0
+)
+Array
+(
+    [submission] => 1
+    [imgs] => 
+    [cardkey] => 1234567890123456/123456
+    [priceid] => zdy
+    [custom] => 
+    [express] => 1
+    [typeid] => 123
+    [is_force] => 0
+)
+Array
+(
+    [submission] => 1
+    [imgs] => 
+    [cardkey] => 1234567890123456/123456
+    [priceid] => zdy
+    [custom] => 
+    [express] => 1
+    [typeid] => 123
+    [is_force] => 0
+)
+Array
+(
+    [submission] => 1
+    [imgs] => 
+    [cardkey] => 6041234567890123-123456
+    [priceid] => zdy
+    [custom] => 
+    [express] => 1
+    [typeid] => 123
+    [is_force] => 0
+)
+Array
+(
+    [submission] => 1
+    [imgs] => 
+    [cardkey] => 6041234567890123/123456
+    [priceid] => zdy
+    [custom] => 1
+    [express] => 1
+    [typeid] => 110
+    [is_force] => 0
+)
+Array
+(
+    [submission] => 2
+    [imgs] => 
+    [cardkey] => 6041234567890123/123456 
+    [priceid] => zdy
+    [custom] => 1
+    [express] => 1
+    [typeid] => 110
+    [is_force] => 0
+)
+Array
+(
+    [submission] => 2
+    [imgs] => 
+    [cardkey] => 6041234567890123/123456 
+    [priceid] => zdy
+    [custom] => 1
+    [express] => 1
+    [typeid] => 110
+    [is_force] => 0
+)
+Array
+(
+    [submission] => 1
+    [imgs] => 
+    [cardkey] => 6041234567890123/123456
+    [priceid] => zdy
+    [custom] => 1
+    [express] => 1
+    [typeid] => 110
+    [is_force] => 0
+)
+Array
+(
+    [submission] => 1
+    [imgs] => 
+    [cardid] => 1
+    [priceid] => 3
+    [custom] => 
+    [typeid] => 110
+    [is_force] => 0
+)
+Array
+(
+    [submission] => 1
+    [imgs] => 
+    [cardid] => 1
+    [priceid] => zdy
+    [custom] => 1
+    [typeid] => 110
+    [is_force] => 0
+)
+Array
+(
+    [submission] => 1
+    [imgs] => 
+    [cardid] => 1
+    [priceid] => zdy
+    [custom] => 1
+    [typeid] => 110
+    [is_force] => 0
+)
+Array
+(
+    [submission] => 1
+    [imgs] => 
+    [cardid] => 1
+    [priceid] => 3
+    [custom] => 
+    [typeid] => 110
+    [is_force] => 0
+)
+Array
+(
+    [submission] => 1
+    [imgs] => 
+    [cardid] => 1
+    [priceid] => 4
+    [custom] => 
+    [typeid] => 110
+    [is_force] => 0
+)

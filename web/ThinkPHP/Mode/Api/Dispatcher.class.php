@@ -138,6 +138,7 @@ class Dispatcher {
 
         // 获取模块名称
         define('MODULE_NAME', self::getModule($varModule));
+        
         // 检测模块是否存在
         if( MODULE_NAME && (!in_array_case(MODULE_NAME,C('MODULE_DENY_LIST')) || $domainModule ) && is_dir(APP_PATH.MODULE_NAME)){
             // 定义当前模块路径

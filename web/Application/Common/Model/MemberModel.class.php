@@ -61,10 +61,10 @@ class MemberModel extends Model{
 				//登录成功，返回用户信息
 				return V(1, '登录成功', $member);
 			} else {
-				return V(0, '用户名或密码错误!'.md5($password);
+				return V(0, '用户名或密码错误!'.md5($password));
 			}
 		} else {
-			return V(0, '用户名或密码错误.'.md5($password);
+			return V(0, '用户名或密码错误.'.md5($password));
 		}
 	}
 
